@@ -1,4 +1,4 @@
-# Blocksship v0.1.1
+# Blockship v0.1.1
 **for Forge 1.7.10**
 
 Blockship is a server side mode which keeps track of block ownership on a block-by-block basis. Once a block is owned it cannot be broken by other players.
