@@ -1,0 +1,19 @@
+# Ignored Files
+**/nb-configuration.xml
+**/.classpath
+**/.project
+**/.settings/
+**/CREDITS-fml.txt
+**/LICENSE-fml.txt
+**/MinecraftForge-Credits.txt
+**/MinecraftForge-License.txt
+**/README.txt
+**/forge-1.7.10-10.13.4.1558-1.7.10-changelog.txt
+
+# Ignored Directories
+**/.gradle/
+**/buildOutput
+**/bin/
+**/eclipse/
+**/build/
+**/.settings/
