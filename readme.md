@@ -18,5 +18,5 @@ Thats all you have to do to get started!
 When you own a block, you are the only one who can break it. If you are working as a team you can allow other players to break the blocks
 by using the command `bls <player>`. This will toggle whether that person can break your blocks.
 
-> This is not a two way agreement. If player one shares blocks with player two, only player two and break player one's blocks.
+> This is not a two way agreement. If player one shares blocks with player two, only player two can break player one's blocks.
 > Player two must share they're blocks with player one for it to be mutual.
